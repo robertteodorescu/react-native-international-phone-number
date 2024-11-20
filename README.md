@@ -688,7 +688,7 @@ export default function App() {
   ...
   <PhoneInput
     ...
-    popularCountriess={['BR', 'PT', 'CA', 'US']}
+    popularCountries={['BR', 'PT', 'CA', 'US']}
     popularCountriesSectionTitle='Suggested'
     restOfCountriesSectionTitle='All'
   />
